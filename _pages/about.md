@@ -22,9 +22,6 @@ My current research principally revolves around these specific topics:
 4. Accelerating Deep Learning.
 5. Machine Learning Inspired Three-dimensional (3D) NoC Architectures.
 
-
-Before grad school, I got my Bachelors of Science (B.Sc.) degree in Electronic and Electrical Engineering from Obafemi Awolowo University, Nigeria.
-
 I am very fortunate to work with my advisor [Prof. Partha Pande](https://eecs.wsu.edu/~pande/), and co-advisor [Prof. Jana Doppa](https://eecs.wsu.edu/~jana/).
 
 ## Education
