@@ -16,11 +16,11 @@ My general research interests are in Low-power VLSI design and Computer Architec
 
 My current research principally revolves around these specific topics:
 
-In-memory computing
-Emerging memory technologies, circuit and architectures
-Neuromorphic computing systems
-Accelerating Deep Learning
-Machine Learning Inspired Three-dimensional (3D) NoC Architectures
+1. In-memory computing.
+2. Emerging memory technologies, circuit and architectures.
+3. Neuromorphic computing systems.
+4. Accelerating Deep Learning.
+5. Machine Learning Inspired Three-dimensional (3D) NoC Architectures.
 
 
 Before grad school, I got my Bachelors of Science (B.Sc.) degree in Electronic and Electrical Engineering from Obafemi Awolowo University, Nigeria.
