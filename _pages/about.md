@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a PhD student in the [School of Electrical Engineering and Computer Science at Washington State University](https://school.eecs.wsu.edu/).
+I am a PhD candidate in the [School of Electrical Engineering and Computer Science at Washington State University](https://school.eecs.wsu.edu/).
 
 My general research interests are in Low-power VLSI design and Computer Architecture with a focus on Proccessing-In-Memory (PIM) Architectures for Machine Learning (ML) and Graph Applications. The overarching goal of my research is to develop high performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies to address the latency, security/privacy, and communication bandwidth concerns associated with edge/on-device computing. 
 
@@ -31,7 +31,7 @@ ___
 
 ## PhD Journey: Landmarks
 ___
-* December 2022- Passed [Preliminary Exam](https://events.wsu.edu/event/high-performance-and-reliable-processing-in-memory-accelerators-for-graph-based-machine-learning-by-chukwufumnanya-ogbogu-preliminary-exam/) - Attained PhD Candidacy Status! 
+* December 2022- Passed [Preliminary Exam](https://events.wsu.edu/event/high-performance-and-reliable-processing-in-memory-accelerators-for-graph-based-machine-learning-by-chukwufumnanya-ogbogu-preliminary-exam/) - Now a PhD Candidate! 
 * October 2022- Presented our [work](https://ieeexplore.ieee.org/document/9852763/metrics#metrics) at [ESWEEK 2022](https://esweek.org/) Conference. 
 * July 2022- Passed Qualifying Exams!
 * October 2021- Selected for 58th Design Automation Conference (DAC) Young Fellow program
