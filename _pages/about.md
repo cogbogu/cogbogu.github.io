@@ -31,6 +31,7 @@ ___
 
 ## PhD Journey: Landmarks
 ___
+* December 2022- Passed [Preliminary Exam](https://events.wsu.edu/event/high-performance-and-reliable-processing-in-memory-accelerators-for-graph-based-machine-learning-by-chukwufumnanya-ogbogu-preliminary-exam/)! 
 * October 2022- Presented our [work](https://ieeexplore.ieee.org/document/9852763/metrics#metrics) at [ESWEEK 2022](https://esweek.org/) Conference. 
 * July 2022- Passed Qualifying Exams!
 * October 2021- Selected for 58th Design Automation Conference (DAC) Young Fellow program
