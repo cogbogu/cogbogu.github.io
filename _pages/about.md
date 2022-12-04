@@ -12,15 +12,14 @@ About me
 ======
 I am a PhD candidate in the [School of Electrical Engineering and Computer Science at Washington State University](https://school.eecs.wsu.edu/).
 
-My general research interests are in Low-power VLSI design and Computer Architecture with a focus on Proccessing-In-Memory (PIM) Architectures for Machine Learning (ML) and Graph Applications. The overarching goal of my research is to develop high performance and energy-efficient architectures for domain-specific hardware accelerators in existing and emerging technologies to address the latency, security/privacy, and communication bandwidth concerns associated with edge/on-device computing. 
+My general research areas of interest are Low-power VLSI design, Proccessing-In-Memory (PIM) Architectures, Deep Neural Networks and Machine Learning Hardware Accelerators. The goal of my research is to develop high performance and energy-efficient domain-specific architectures for accelerating Machine Learning training and inferecing on the edge (on-device). Overall, my work seeks to address the energy, latency, security/privacy, concerns associated with today's existing architectures. 
 
 My current research principally revolves around these specific topics:
 
-1. In-memory computing.
+1. Proccessing-In-Memory (PIM) Architectures for Machine Learning and Graph Applications.
 2. Emerging memory technologies, circuit and architectures.
 3. Neuromorphic computing systems.
-4. Accelerating Deep Learning.
-5. Machine Learning Inspired Three-dimensional (3D) NoC Architectures.
+4. 3D-Heterogeneous Computing. 
 
 I am very fortunate to work with my advisor [Prof. Partha Pande](https://eecs.wsu.edu/~pande/), and co-advisor [Prof. Jana Doppa](https://eecs.wsu.edu/~jana/).
 
