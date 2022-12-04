@@ -12,7 +12,7 @@ About me
 ======
 I am a PhD candidate in the [School of Electrical Engineering and Computer Science at Washington State University](https://school.eecs.wsu.edu/).
 
-My general research areas of interest are Low-power VLSI design, Proccessing-In-Memory (PIM) Architectures, Deep Neural Networks and Machine Learning Hardware Accelerators. The goal of my research is to develop high performance and energy-efficient domain-specific architectures for accelerating Machine Learning training and inferecing on the edge (on-device). Overall, my work seeks to address the energy, latency, security/privacy, concerns associated with today's existing architectures. 
+My general research areas of interest are Low-power VLSI design, Proccessing-In-Memory (PIM) Architectures, Deep Neural Networks and Machine Learning Hardware Accelerators. The goal of my research is to develop high performance and energy-efficient domain-specific architectures for accelerating Machine Learning training and inferencing on the edge (on-device). Overall, my work seeks to address the energy, latency, security/privacy, concerns associated with today's existing architectures. 
 
 My current research principally revolves around these specific topics:
 
