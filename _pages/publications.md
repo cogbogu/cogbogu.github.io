@@ -4,6 +4,9 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Conference Papers
+___
+* **C. Ogbogu**, S. Mohapatra, B. Joardar, J. Doppa, D. Heo,  K. Chakrabarty, P. Pande, "Energy-Efficient ReRAM-based ML Training via Mixed Pruning and Reconfigurable ADC" to appear in [ISLPED 2023] (https://www.islped.org/2023/)
 
 ## Journal Papers
 ___
