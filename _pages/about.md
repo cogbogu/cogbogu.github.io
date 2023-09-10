@@ -31,7 +31,7 @@ ___
 ## PhD Journey: Landmarks and News
 ___
 * August 2023- Received Johnson Electrical Engineering Scholarship for the 2023-2024 academic year.
-* May 2023- Paper accepted at ISLPED 2023.
+* May 2023- Two Papers accepted at ISLPED 2023!.
 * April 2023- Outstanding Graduate Student Award in Electrical and Computer Engineering
 * December 2022- Passed [Preliminary Exam](https://events.wsu.edu/event/high-performance-and-reliable-processing-in-memory-accelerators-for-graph-based-machine-learning-by-chukwufumnanya-ogbogu-preliminary-exam/) - Now a PhD Candidate! 
 * October 2022- Presented our [work](https://ieeexplore.ieee.org/document/9852763/metrics#metrics) at [ESWEEK 2022](https://esweek.org/) Conference. 
